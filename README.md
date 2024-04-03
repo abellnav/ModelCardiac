@@ -1,2 +1,2 @@
 # ModelFLOWs-Cardiac
-ModelFLOWs-Cardiac application
+Welcome to the ModelFLOWs-Cardicac repository!
