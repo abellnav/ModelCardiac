@@ -1,4 +1,4 @@
 # ModelFLOWs-Cardiac
-Welcome to the ModelFLOWs-Cardicac repository!
+Welcome to the ModelFLOWs-Cardiac repository!
 
 Under construction...
